@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+apitoken.key
+endpoint.key
+user.key
+.idea/api-status-monitor.iml
